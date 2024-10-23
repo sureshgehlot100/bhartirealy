@@ -5,12 +5,12 @@ function VirtualHome() {
     const [activeButton, setActiveButton] = useState('tenants');
 
     return (
-        <div className="w-full bg-white overflow-x-hidden ">
+        <div className="w-full bg-white overflow-x-hidden  ">
             {/* Main container */}
             <div className="max-w-7xl mx-auto my-10 px-4 sm:px-6 lg:px-8 py-8 ">
                 <div className="flex flex-col lg:flex-row-reverse items-center gap-8">
                     {/* Content Section */}
-                    <div className="w-full lg:w-1/2 flex flex-col gap-8 ml-9">
+                    <div className="w-full lg:w-1/2 flex flex-col gap-8 items-center">
                         {/* Toggle Button */}
                         <div className="w-full max-w-[334px] h-16 relative">
                             <div className="w-full h-full rounded-lg bg-[#efeffb]/30 border-[1.5px] border-[#dedef7] p-1">
@@ -32,7 +32,7 @@ function VirtualHome() {
                             </div>
                         </div>
                         {/* Text Content */}
-                        <div className="flex flex-col gap-6">
+                        <div className="flex flex-col gap-6 ">
                             <h1 className="text-3xl sm:text-4xl lg:text-[40px] font-bold text-[#000929] max-w-[444px]">
                                 We make it easy for tenants and landlords.
                             </h1>
