@@ -17,7 +17,7 @@ const BuyHome = () => {
                             <div className='flex sm:block items-center text-center justify-center'>
                                 <div className='pl-0 sm:pl-11'>
                                     <Image
-                                        src='/icon.png'
+                                        src='/Icon.png'
                                         alt='icon'
                                         width={50}
                                         height={50}
