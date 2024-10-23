@@ -15,7 +15,7 @@ function Testimonial() {
                 </header>
 
                 <blockquote className="text-lg md:text-xl font-medium text-center text-[#000929] mb-8">
-                    "Estatery is the platform I go to on almost a daily basis for 2nd home and vacation condo
+                    "Bharti Realty is the platform I go to on almost a daily basis for 2nd home and vacation condo
                     shopping, or to just look at dream homes in new areas. Thanks for fun home shopping and
                     comparative analyzing, Estatery!"
                 </blockquote>
