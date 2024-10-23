@@ -17,7 +17,7 @@ function Testimonial() {
                 <blockquote className="text-lg md:text-xl font-medium text-center text-[#000929] mb-8">
                     "Bharti Realty is the platform I go to on almost a daily basis for 2nd home and vacation condo
                     shopping, or to just look at dream homes in new areas. Thanks for fun home shopping and
-                    comparative analyzing, Estatery!"
+                    comparative analyzing, Bharti Realty!"
                 </blockquote>
 
                 <div className="text-center mb-8">
