@@ -31,7 +31,7 @@ function LandloardSumbmit() {
                 </div>
 
                 <p className="text-sm text-center text-[#9ea3ae]">
-                    Join <span className="text-white font-medium">10,000+</span> other landlords in our estatery community.
+                    Join <span className="text-white font-medium">10,000+</span> other landlords in our Bharti Realty community.
                 </p>
             </div>
         </div>
