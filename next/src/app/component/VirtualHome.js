@@ -13,7 +13,7 @@ function VirtualHome() {
                     <div className="w-full lg:w-1/2 flex flex-col gap-8 ml-9">
                         {/* Toggle Button */}
                         <div className="w-full max-w-[334px] h-16 relative">
-                            <div className="w-full h-full rounded-lg bg-[#efeffb]/30 border-[1.5px] border-[#dedef7] p-2">
+                            <div className="w-full h-full rounded-lg bg-[#efeffb]/30 border-[1.5px] border-[#dedef7] p-1">
                                 <div className="flex justify-between  h-full">
                                     <div className="w-1/2 relative">
                                         <div
